@@ -1,7 +1,4 @@
-﻿using System;
-using System.Security.Cryptography;
-
-namespace BirthdayAttackDemo // Note: actual namespace depends on the project name.
+﻿namespace BirthdayAttackDemo
 {
     internal class Program
     {
